@@ -1,0 +1,9 @@
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\InstallLockoutCreator2.0.csprojAssemblyReference.cache
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\InstallLockoutCreator2.0.csproj.CoreCompileInputs.cache
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\bin\Debug\InstallLockoutCreator2.0.exe.config
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\bin\Debug\InstallLockoutCreator2.0.exe
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\bin\Debug\InstallLockoutCreator2.0.pdb
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\InstallLockoutCreator2.0.exe
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\InstallLockoutCreator2.0.pdb
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\mmendenh\Documents\Projects\InstallLockoutCreator2.0\obj\Debug\InstallLockoutCreator2.0.csproj.ResolveComReference.cache
